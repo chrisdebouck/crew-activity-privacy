@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 80 80">
+  <title>Crew Activity Dashboard</title>
+  <defs>
+    <linearGradient id="dSteel" x1="63" y1="29" x2="47" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#5A7DA0"/>
+      <stop offset="40%" stop-color="#4D6C8A"/>
+      <stop offset="100%" stop-color="#456580"/>
+    </linearGradient>
+  </defs>
+  <rect width="80" height="80" fill="#3B546A"/>
+  <path d="M 37 29 H 25 A 8.2 8.2 0 0 0 17 37.2 V 43.8 A 8.2 8.2 0 0 0 25.2 52 H 30.55 A 2.25 2.25 0 0 0 30.55 47.5 H 25.2 A 3 3 0 0 1 22 44.5 V 37.2 A 3 3 0 0 1 25 34 H 37 V 29 Z" fill="#D4DCE3"/>
+  <path d="M 43 29 H 51.5 A 11.5 11.5 0 0 1 51.5 52 H 47.55 V 46.05 H 43 V 29 Z M 50 34 H 51.5 A 6.5 6.5 0 0 1 51.5 47 H 50 Z" fill="url(#dSteel)" fill-rule="evenodd"/>
+  <path d="M 39.200 29.000 L 41.800 29.000 L 52.000 52.000 L 47.000 52.000 L 44.391 46.000 L 31.609 46.000 Z M 30.957 47.500 L 35.957 47.500 L 34.000 52.000 L 29.000 52.000 Z M 40.50 38.15 L 41.80 40.85 L 39.20 40.85 Z" fill="#959594" fill-rule="evenodd"/>
+</svg>
